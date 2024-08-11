@@ -17,4 +17,15 @@ Do you need a transcription for whatever reason? Great... Here's a step by step 
 Errors:
 1. If you get error: python is not a bash command or whatever and you're on linux please, for the love of god try python3 instead of python.
 2. Did you update the directories? If you're getting "Path/To/transcript.txt/ isn't found" you need to put the directory your transcript.txt is in
-2.2 assuming you're like me and you saved it to your desktop it's C:\<username>\Desktop\transcript.txt
+3.  assuming you're like me and you saved it to your desktop it's C:\<username>\Desktop\transcript.txt
+
+
+Example of unformatted Text:
+
+[![](https://i.ibb.co/DwqywMJ/image.png)](http://https://i.ibb.co/DwqywMJ/image.png)
+
+Example of formatted TXT:
+
+![](https://i.ibb.co/sHCRWsv/image.png)
+
+
