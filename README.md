@@ -1,4 +1,4 @@
-# YouTube-Transscription-Parser
+# YouTube Transcription Formatter 
 
 Do you need a transcription for whatever reason? Great... Here's a step by step way to create a formatted transcript without hassle
 
